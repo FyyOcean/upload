@@ -1,0 +1,3 @@
+  <tr>
+    <td height="130" background="images/bottom.jpg"><div align="center" class="foot">版权所有：山西省“阳光百姓工程”办公室 &nbsp;&nbsp;晋ICP备16005709号-1<br><strong><a href="http://www.beian.miit.gov.cn/" target="_blank">www.beian.miit.gov.cn</a></strong></div></td>
+  </tr>

@@ -1,0 +1,15 @@
+server:
+  port: 9090
+  context-path: /springboot_upload
+  jsp-servlet:
+    init-parameters:
+      development: true
+spring:
+  mvc:
+    view:
+      prefix: /
+      suffix: .jsp
+  http:
+    multipart:
+      max-request-size: 20MB #KB 默认10MB
+      max-file-size: 40MB #用来控制文件上传的大小 默认1KB
